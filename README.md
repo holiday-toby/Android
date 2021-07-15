@@ -18,37 +18,10 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
 ```bash
 # Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-{% endcode %}
-
-{% tabs %}
-{% tab title="Bash" %}
-{% code title="hi.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-{% endtab %}
-
-{% tab title="java" %}
-{% code title="d" %}
-```
-
-```
-{% endcode %}
-{% endtab %}
-
-{% tab title="python" %}
-```
-
-```
-{% endtab %}
-{% endtabs %}
 
 
 
