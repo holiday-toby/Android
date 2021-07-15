@@ -52,7 +52,7 @@
             "alipay": "./images/donate.jpg",
             "title": "请随意",
             "button": "赞赏",
-            "alipayText": "hi~"
+            "alipayText": "hi~,test donate"
         },
         "sharing": {
             "douban": false,
