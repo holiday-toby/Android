@@ -2,8 +2,12 @@
 
 * [Initial page](README.md)
 * [Kotlin for Android](kotlin-for-android.md)
-* [API](api.md)
-* [FAQ](faq.md)
-* [ChangeLog](changelog.md)
 * [Blank](blank.md)
 
+----
+
+* [ChangeLog](changelog.md)
+
+----
+
+* [FAQ](faq.md)

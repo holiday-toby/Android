@@ -6,8 +6,6 @@ description: Kotlin Quick Guide for Android Basics in Kotlin
 
 
 
-{% page-ref page="kotlin-for-android.md" %}
-
 [https://developer.android.com/courses/android-basics-kotlin/kotlin-quick-guide/?hl=zh\_cn](https://developer.android.com/courses/android-basics-kotlin/kotlin-quick-guide/?hl=zh_cn)
 
 

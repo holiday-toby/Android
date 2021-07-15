@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "我的狗窝": "https://www.tobylin.tk"
+            "水手之家": "https://www.tobylin.tk"
         }
     },
     "plugins": [
@@ -20,22 +20,28 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
+        "hints",
         "github",
         "github-buttons",
         "donate",
         "sharing-plus",
         "anchor-navigation-ex",
-        "favicon"
+        "favicon",
+        "prism",
+        "image-captions",
+        "atoc",
+        "toc",
+        "codeblock-filename",
+        "codetabs"
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/Blankj"
+            "url": "https://github.com/holiday-toby"
         },
         "github-buttons": {
             "buttons": [{
-                "user": "Blankj",
-                "repo": "glory",
+                "user": "holiday-toby",
+                "repo": "Android",
                 "type": "star",
                 "size": "small",
                 "count": true
@@ -43,10 +49,10 @@
             ]
         },
         "donate": {
-            "alipay": "./source/images/donate.png",
-            "title": "",
+            "alipay": "./images/donate.jpg",
+            "title": "请随意",
             "button": "赞赏",
-            "alipayText": " "
+            "alipayText": "hi~"
         },
         "sharing": {
             "douban": false,
