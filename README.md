@@ -18,12 +18,32 @@ Super-powers are granted randomly so please submit an issue if you're not happy 
 
 Once you're strong enough, save the world:
 
+{% tabs %}
+{% tab title="Bash" %}
 {% code title="hello.sh" %}
 ```bash
 # Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
+{% endtab %}
+
+{% tab title="C" %}
+```text
+hi
+```
+
+```
+println()
+```
+{% endtab %}
+
+{% tab title="Java" %}
+```
+hi
+```
+{% endtab %}
+{% endtabs %}
 
 
 
